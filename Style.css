@@ -3,14 +3,14 @@ body {background-color: #8c8c8c;}
 p {
  color: WHite;
  position: relative;  
-     left: 1px;
-	bottom: 1px;
+     left: 10px;
+	bottom: 10px;
 }
 h1 {
   color: White;
   position: relative;  
-     left: 1px;	
-        bottom: 1px;
+     left: 10px;	
+        bottom: 10px;
 }
 .content {
         padding: 15px;
